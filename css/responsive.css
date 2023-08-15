@@ -1,0 +1,699 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .navbar-toggler{
+        background: #000;
+    }
+    .fa-bars{
+        color: #000;
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 9px;
+        font-weight: 500;
+        color: #000;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-left: 58px;
+    }
+    .header .navbar .collapse .d-flex .form-control {
+        font-size: 0.5rem;
+        font-weight: 400;
+        line-height: 1.5;
+        padding-right: 20px;
+    }
+    .header .button {
+        margin-left: 0px;
+    }
+    .header .btn-outline-success {
+        font-size: 10px;
+        font-weight: 600;
+        padding: 8px 20px 8px;
+        color: #fff;
+        background: rgb(142, 138, 44);
+        border: 2px solid #730fcb;
+        text-transform: uppercase;
+        margin-top: 10px;
+    }
+
+    .banner .inner-banner .inner-banner-text .title {
+        font-size: 27px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #09c;
+    }
+    .banner .inner-banner .inner-banner-text .des {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        margin-top: 30px;
+    }
+    .double-button .btn-outline-primary {
+        font-size: 12px;
+        margin-bottom: 10px;
+        font-weight: 500;
+        text-transform: uppercase;
+        background: rgb(142, 138, 44);
+        color: #fff;
+        line-height: 1.7em;
+        border: 2px solid #000;
+        margin-right: 10px;
+    }
+    .double-button .btn-outline-success {
+        font-size: 12px;
+        margin-top: -10px;
+        font-weight: 500;
+        text-transform: uppercase;
+        background: rgb(142, 138, 44);
+        color: #fff;
+        line-height: 1.7em;
+        border: 2px solid #000;
+    }
+    .banner .social a span {
+        font-size: 20px;
+        font-weight: 600;
+        color: #000;
+        margin-right: 10px;
+        border-right: 1px solid #09c;
+        padding-right: 57px;
+    }
+    .banner .img-fluid {
+        margin-left: -21px;
+    }
+    .customer-service .inner-customer-experience .txt {
+        font-size: 25px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: capitalize;
+        color: #000;
+    }
+    .customer-service .inner-customer-experience .txt-des {
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+    }
+    .business-partner .title .title-txt {
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .business-partner .title .title-txt {
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .ipdc-finace .ipdc-tile .ipdc-des {
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+    }
+    .ipdc-finace .ipdc-tile a span {
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 1.2em;
+        color: #829627;
+        text-transform: uppercase;
+        margin-right: 10px;
+    }
+    .ipdc-finace .ipdc-tile a .fa-arrow-right {
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 1.2em;
+        color: #829627;
+    }
+    .our-service .title {
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .our-service .our-service-des {
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .our-service .card-body .card-title {
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 1.2em;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: left;
+    }
+    .our-service .card-body .card-title a .fa-arrow-right {
+        font-size: 10px;
+        font-weight: 500;
+        float: right;
+        color: #829627;
+        margin-top: -5px;
+    }
+    .our-result .inner-our-result .inner-our-result-t {
+        font-size: 21px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .our-result .inner-our-result .inner-our-result-des {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .our-result .item2-text {
+        padding-left: 109px;
+        padding-top: 30px;
+    }
+    .newslatter .title .title-t {
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .newslatter .title .title-des {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .footer .about-company .about-coapny-t {
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 1.2em;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .footer .about-company .about-coapny-s {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 1.2em;
+        text-transform: capitalize;
+        color: #000;
+        text-align: center;
+    }
+    .footer .social {
+        width: 100%;
+        margin-left: 37px;
+    }
+    .footer .social2{
+        text-align: center;
+    }
+    .footer .copy-right .copy-right-txt {
+        font-size: 10px;
+        font-weight: 400;
+        text-align: center;
+        margin-top: 80px;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+    .navbar-toggler{
+        background: #000;
+    }
+    .fa-bars{
+        color: #000;
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 9px;
+        font-weight: 500;
+        color: #000;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-left: 58px;
+    }
+    .header .navbar .collapse .d-flex .form-control {
+        font-size: 0.5rem;
+        font-weight: 400;
+        line-height: 1.5;
+        padding-right: 20px;
+    }
+    .header .button {
+        margin-left: 0px;
+    }
+    .header .btn-outline-success {
+        font-size: 10px;
+        font-weight: 600;
+        padding: 8px 20px 8px;
+        color: #fff;
+        background: rgb(142, 138, 44);
+        border: 2px solid #730fcb;
+        text-transform: uppercase;
+        margin-top: 10px;
+    }
+
+    .banner .inner-banner .inner-banner-text .title {
+        font-size: 27px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #09c;
+    }
+    .banner .inner-banner .inner-banner-text .des {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        margin-top: 30px;
+    }
+    .double-button .btn-outline-primary {
+        font-size: 12px;
+        margin-bottom: 10px;
+        font-weight: 500;
+        text-transform: uppercase;
+        background: rgb(142, 138, 44);
+        color: #fff;
+        line-height: 1.7em;
+        border: 2px solid #000;
+        margin-right: 10px;
+    }
+    .double-button .btn-outline-success {
+        font-size: 12px;
+        margin-top: -10px;
+        font-weight: 500;
+        text-transform: uppercase;
+        background: rgb(142, 138, 44);
+        color: #fff;
+        line-height: 1.7em;
+        border: 2px solid #000;
+    }
+    .banner .social a span {
+        font-size: 20px;
+        font-weight: 600;
+        color: #000;
+        margin-right: 10px;
+        border-right: 1px solid #09c;
+        padding-right: 57px;
+    }
+    .banner .img-fluid {
+        margin-left: -21px;
+    }
+    .customer-service .inner-customer-experience .txt {
+        font-size: 25px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: capitalize;
+        color: #000;
+    }
+    .customer-service .inner-customer-experience .txt-des {
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+    }
+    .business-partner .title .title-txt {
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .business-partner .title .title-txt {
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .ipdc-finace .ipdc-tile .ipdc-des {
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+    }
+    .ipdc-finace .ipdc-tile a span {
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 1.2em;
+        color: #829627;
+        text-transform: uppercase;
+        margin-right: 10px;
+    }
+    .ipdc-finace .ipdc-tile a .fa-arrow-right {
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 1.2em;
+        color: #829627;
+    }
+    .our-service .title {
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .our-service .our-service-des {
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .our-service .card-body .card-title {
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 1.2em;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: left;
+    }
+    .our-service .card-body .card-title a .fa-arrow-right {
+        font-size: 10px;
+        font-weight: 500;
+        float: right;
+        color: #829627;
+        margin-top: -5px;
+    }
+    .our-result .inner-our-result .inner-our-result-t {
+        font-size: 21px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .our-result .inner-our-result .inner-our-result-des {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .our-result .item2-text {
+        padding-left: 109px;
+        padding-top: 30px;
+    }
+    .newslatter .title .title-t {
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .newslatter .title .title-des {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .footer .about-company .about-coapny-t {
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 1.2em;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .footer .about-company .about-coapny-s {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 1.2em;
+        text-transform: capitalize;
+        color: #000;
+        text-align: center;
+    }
+    .footer .social {
+        width: 100%;
+        margin-left: 37px;
+    }
+    .footer .social2{
+        text-align: center;
+    }
+    .footer .copy-right .copy-right-txt {
+        font-size: 10px;
+        font-weight: 400;
+        text-align: center;
+        margin-top: 80px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .navbar-toggler{
+        background: #000;
+    }
+    .fa-bars{
+        color: #000;
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 9px;
+        font-weight: 500;
+        color: #000;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-left: 58px;
+    }
+    .header .navbar .collapse .d-flex .form-control {
+        font-size: 0.5rem;
+        font-weight: 400;
+        line-height: 1.5;
+        padding-right: 20px;
+    }
+    .header .button {
+        margin-left: 0px;
+    }
+    .header .btn-outline-success {
+        font-size: 10px;
+        font-weight: 600;
+        padding: 8px 20px 8px;
+        color: #fff;
+        background: rgb(142, 138, 44);
+        border: 2px solid #730fcb;
+        text-transform: uppercase;
+        margin-top: 10px;
+    }
+
+    .banner .inner-banner .inner-banner-text .title {
+        font-size: 27px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #09c;
+    }
+    .banner .inner-banner .inner-banner-text .des {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        margin-top: 30px;
+    }
+    .double-button .btn-outline-primary {
+        font-size: 12px;
+        margin-bottom: 10px;
+        font-weight: 500;
+        text-transform: uppercase;
+        background: rgb(142, 138, 44);
+        color: #fff;
+        line-height: 1.7em;
+        border: 2px solid #000;
+        margin-right: 10px;
+    }
+    .double-button .btn-outline-success {
+        font-size: 12px;
+        margin-top: -10px;
+        font-weight: 500;
+        text-transform: uppercase;
+        background: rgb(142, 138, 44);
+        color: #fff;
+        line-height: 1.7em;
+        border: 2px solid #000;
+    }
+    .banner .social a span {
+        font-size: 20px;
+        font-weight: 600;
+        color: #000;
+        margin-right: 10px;
+        border-right: 1px solid #09c;
+        padding-right: 57px;
+    }
+    .banner .img-fluid {
+        margin-left: -21px;
+    }
+    .customer-service .inner-customer-experience .txt {
+        font-size: 25px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: capitalize;
+        color: #000;
+    }
+    .customer-service .inner-customer-experience .txt-des {
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+    }
+    .business-partner .title .title-txt {
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .business-partner .title .title-txt {
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .ipdc-finace .ipdc-tile .ipdc-des {
+        font-size: 9px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+    }
+    .ipdc-finace .ipdc-tile a span {
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 1.2em;
+        color: #829627;
+        text-transform: uppercase;
+        margin-right: 10px;
+    }
+    .ipdc-finace .ipdc-tile a .fa-arrow-right {
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 1.2em;
+        color: #829627;
+    }
+    .our-service .title {
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .our-service .our-service-des {
+        font-size: 11px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .our-service .card-body .card-title {
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 1.2em;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: left;
+    }
+    .our-service .card-body .card-title a .fa-arrow-right {
+        font-size: 10px;
+        font-weight: 500;
+        float: right;
+        color: #829627;
+        margin-top: -5px;
+    }
+    .our-result .inner-our-result .inner-our-result-t {
+        font-size: 21px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .our-result .inner-our-result .inner-our-result-des {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .our-result .item2-text {
+        padding-left: 109px;
+        padding-top: 30px;
+    }
+    .newslatter .title .title-t {
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 1.2em;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .newslatter .title .title-des {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #000;
+        text-align: center;
+    }
+    .footer .about-company .about-coapny-t {
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 1.2em;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #000;
+        text-align: center;
+    }
+    .footer .about-company .about-coapny-s {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 1.2em;
+        text-transform: capitalize;
+        color: #000;
+        text-align: center;
+    }
+    .footer .social {
+        width: 100%;
+        margin-left: 37px;
+    }
+    .footer .social2{
+        text-align: center;
+    }
+    .footer .copy-right .copy-right-txt {
+        font-size: 10px;
+        font-weight: 400;
+        text-align: center;
+        margin-top: 80px;
+    }
+}
